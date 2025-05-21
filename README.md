@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on projects involving **ESP32**, **LoRaWAN**, and **USB Host Shield**
+- 🔭 I’m currently working on projects involving **ESP32**, **LoRaWAN**, and **IoT**
 - 🌱 Learning more about **embedded programming**, **Linux systems**, and **robotics**
 - 🛠 Mainly using **C/C++**, **Python**, and **Arduino**
 - 💬 Ask me about anything related to microcontrollers or hardware integrations
@@ -49,7 +49,7 @@
 
 ### 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-shuzukochan%40example.com-red?style=flat&logo=gmail)](mailto:shuzukochan@example.com)
+[![Email](https://img.shields.io/badge/Email-shuzukochan%40example.com-red?style=flat&logo=gmail)](mailto:shuzukochan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Page-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com)
 
