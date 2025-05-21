@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shuzukochan 👋</h1>
+<h1 align="center">Hi there, I'm Nguyen Ba Uy 👋</h1>
 
 <p align="center">
   Passionate about embedded systems, IoT, and open-source projects 🚀<br>
@@ -49,7 +49,7 @@
 
 ### 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-shuzukochan%40example.com-red?style=flat&logo=gmail)](mailto:shuzukochan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shuzukochan%40gmail.com-red?style=flat&logo=gmail)](mailto:shuzukochan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Page-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com)
 
