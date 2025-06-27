@@ -21,11 +21,13 @@
 
 Here are some highlighted repositories from my graduation project, focusing on IoT, building management, and system integration:
 
-| Repository | Description | Link |
-|------------|-------------|------|
-| **ChirpStack Docker** | LoRaWAN server stack with Docker for scalable IoT applications. | [View Repo](https://github.com/Shuzukochan/chirpstack-docker) |
-| **Building Management Web** | Web dashboard for real-time building management and monitoring. | [View Repo](https://github.com/Shuzukochan/Building-Management-Web) |
-| **Building Management App** | Mobile app (Android) for controlling and visualizing building IoT data. | [View Repo](https://github.com/Shuzukochan/Building-Management-App) |
+| Repository                        | Description                                                                   | Link |
+|------------------------------------|-------------------------------------------------------------------------------|------|
+| **ChirpStack Docker**              | LoRaWAN server stack with Docker for scalable IoT applications.               | [View Repo](https://github.com/Shuzukochan/chirpstack-docker) |
+| **Building Management Web**        | Web dashboard for real-time building management and monitoring.                | [View Repo](https://github.com/Shuzukochan/Building-Management-Web) |
+| **Building Management App**        | Mobile app (Android) for controlling and visualizing building IoT data.        | [View Repo](https://github.com/Shuzukochan/Building-Management-App) |
+| **ChirpStack Firebase Integration**| Firebase Functions for HTTP integration from ChirpStack to Firebase Realtime Database. | [View Repo](https://github.com/Shuzukochan/chirpstack-firebase-integration) |
+| **SX1302 HAL**                     | SX1302 LoRaWAN packet forwarder hardware abstraction layer and configuration.  | [View Repo](https://github.com/Shuzukochan/sx1302_hal) |
 
 <p align="center">
   <a href="https://github.com/Shuzukochan/chirpstack-docker">
@@ -36,6 +38,12 @@ Here are some highlighted repositories from my graduation project, focusing on I
   </a>
   <a href="https://github.com/Shuzukochan/Building-Management-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shuzukochan&repo=Building-Management-App&theme=radical" />
+  </a>
+  <a href="https://github.com/Shuzukochan/chirpstack-firebase-integration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shuzukochan&repo=chirpstack-firebase-integration&theme=radical" />
+  </a>
+  <a href="https://github.com/Shuzukochan/sx1302_hal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shuzukochan&repo=sx1302_hal&theme=radical" />
   </a>
 </p>
 
